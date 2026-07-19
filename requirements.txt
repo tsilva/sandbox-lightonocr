@@ -1,3 +1,4 @@
+-c constraints.txt
 Pillow>=10.4.0
 pypdfium2>=4.30.0
 requests>=2.32.0
