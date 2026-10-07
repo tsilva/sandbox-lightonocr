@@ -1,4 +1,8 @@
-# LightOnOCR-2-1B demo scripts
+<p align="center">
+  <!-- repo-tagline:start -->
+  <strong>📄 Try LightOnOCR locally or through vLLM endpoints 🔍</strong>
+  <!-- repo-tagline:end -->
+</p>
 
 This repo contains two small Python demos for [`lightonai/LightOnOCR-2-1B`](https://huggingface.co/lightonai/LightOnOCR-2-1B):
 
