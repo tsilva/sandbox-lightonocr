@@ -80,3 +80,7 @@ If your endpoint requires auth, set `OPENAI_API_KEY` or pass `--api-key`.
 - The Hugging Face model card recommends rendering PDFs at 200 DPI with a target longest dimension of 1540 px. The scripts do that automatically for PDF inputs and also downscale oversized images to the same longest edge.
 - The local script defaults to `bfloat16` on CUDA and `float32` on CPU or MPS for safer portability.
 - `transformers>=5.0.0` is required by the model card for the LightOnOCR classes.
+
+## License
+
+[MIT License](LICENSE).
